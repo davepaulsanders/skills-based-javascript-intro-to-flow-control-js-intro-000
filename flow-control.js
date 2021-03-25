@@ -9,8 +9,6 @@ function teenager(age) {
 
   return `You are a teenager!`
 }
-
-}
 }
 
 function ageChecker(age) {
